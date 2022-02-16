@@ -1,0 +1,16 @@
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.csproj.AssemblyReference.cache
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.AssemblyInfoInputs.cache
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.AssemblyInfo.cs
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.csproj.CoreCompileInputs.cache
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\Nesting.exe
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\Nesting.deps.json
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\Nesting.runtimeconfig.json
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\Nesting.runtimeconfig.dev.json
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\Nesting.dll
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\ref\Nesting.dll
+C:\Users\4400112799\source\repos\Nesting\Nesting\bin\Debug\net5.0\Nesting.pdb
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.dll
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\ref\Nesting.dll
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.pdb
+C:\Users\4400112799\source\repos\Nesting\Nesting\obj\Debug\net5.0\Nesting.genruntimeconfig.cache
